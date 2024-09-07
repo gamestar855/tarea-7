@@ -1,0 +1,24 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+h1{
+    font-family: "Orbitron",sans-serif;
+    width: 60%;
+}
+.boton-degraded{
+    background: linear-gradient(45deg,#D10ED1,#10a3DA);
+}
+.boton-border{
+    border: 1px solid;
+    border-image: linear-gradient(to top,#D10ED1,#10a3DA )1;
+}
+.Metaverse{
+    font-family: "Orbitron",sans-serif;
+    background: linear-gradient(45deg,#D10ED1,#10a3DA);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+} 
+.numeros{
+    font-family: "Orbitron",sans-serif;
+    font-size: 20px;
+}
